@@ -1,11 +1,14 @@
 # meshblu-connector-asterisk-ami
 
+[![Build Status](https://travis-ci.org/octoblu/meshblu-connector-asterisk-ami.svg?branch=master)](https://travis-ci.org/octoblu/meshblu-connector-asterisk-ami)
+[![Test Coverage](https://codecov.io/gh/octoblu/meshblu-connector-asterisk-ami/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/meshblu-connector-asterisk-ami)
 [![Dependency status](http://img.shields.io/david/octoblu/meshblu-connector-asterisk-ami.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-asterisk-ami)
 [![devDependency Status](http://img.shields.io/david/dev/octoblu/meshblu-connector-asterisk-ami.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-asterisk-ami#info=devDependencies)
-[![Build Status](http://img.shields.io/travis/octoblu/meshblu-connector-asterisk-ami.svg?style=flat&branch=master)](https://travis-ci.org/octoblu/meshblu-connector-asterisk-ami)
 [![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
 
 [![NPM](https://nodei.co/npm/meshblu-connector-asterisk-ami.svg?style=flat)](https://npmjs.org/package/meshblu-connector-asterisk-ami)
+[![Dependency status](http://img.shields.io/david/octoblu/meshblu-connector-asterisk-ami.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-asterisk-ami)
+
 
 ## Installing
 
